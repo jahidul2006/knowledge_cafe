@@ -1,0 +1,52 @@
+[
+     {
+       "id": 1,
+       "cover": "https://i.ibb.co.com/BBfP69D/4884785.jpg",
+       "title": "The Art of Web Development",
+       "author": "Jane Doe",
+       "author_img": "https://i.ibb.co.com/b6pv1Ks/e62363c1-5299-4e8b-baac-65aebaec6b08.jpg",
+       "posted_date": "2024-11-01",
+       "reading_time": 8,
+       "hashtags": ["webdevelopment", "coding", "javascript"]
+     },
+     {
+       "id": 2,
+       "cover": "https://i.ibb.co.com/D1CM4L0/341885-PABV4-U-94.jpg",
+       "title": "Mastering Python for Data Science",
+       "author": "John Smith",
+       "author_img": "https://i.ibb.co.com/ysYw2ZX/handsome-man-with-streamer-party-hat.jpg",
+       "posted_date": "2024-10-25",
+       "reading_time": 12,
+       "hashtags": ["python", "datascience", "machinelearning"]
+     },
+     {
+       "id": 3,
+       "cover": "https://i.ibb.co.com/sJm6xFC/progg-wallp.jpg",
+       "title": "Design Patterns in Modern Software",
+       "author": "Emily Carter",
+       "author_img": "https://i.ibb.co.com/gMvy4xn/teenager-boy-portrait.jpg",
+       "posted_date": "2024-10-15",
+       "reading_time": 10,
+       "hashtags": ["softwaredesign", "designpatterns", "architecture"]
+     },
+     {
+       "id": 4,
+       "cover": "https://i.ibb.co.com/yQMx0qW/971.jpg",
+       "title": "A Guide to DevOps Culture",
+       "author": "Michael Brown",
+       "author_img": "https://i.ibb.co.com/b6pv1Ks/e62363c1-5299-4e8b-baac-65aebaec6b08.jpg",
+       "posted_date": "2024-09-30",
+       "reading_time": 7,
+       "hashtags": ["devops", "ci_cd", "teamculture"]
+     },
+     {
+       "id": 5,
+       "cover": "https://i.ibb.co.com/ysYw2ZX/handsome-man-with-streamer-party-hat.jpg",
+       "title": "Exploring the Future of AI",
+       "author": "Sophia Green",
+       "author_img": "https://example.com/images/sophia_green.jpg",
+       "posted_date": "2024-09-20",
+       "reading_time": 15,
+       "hashtags": ["ai", "future", "technology"]
+     }
+   ]
